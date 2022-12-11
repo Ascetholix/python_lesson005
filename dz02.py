@@ -13,7 +13,7 @@ import sys, subprocess
 def clear():                                 # Функция очистка консоли
   subprocess.run('cls', shell=True)          # Для windows 'cls' для Linux и Мас 'clear'
   
-coins = 100
+coins = 2021
 user1 = 0
 user2 = 0
 usercons1 = 0
